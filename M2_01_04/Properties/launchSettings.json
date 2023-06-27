@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BOOP_01_04": {
+      "commandName": "Project",
+      "commandLineArgs": "Martin"
+    }
+  }
+}
